@@ -1,1 +1,1 @@
-# M2-pro1-2024
+Projeto desenvolvido durante o ensino médio utilizando HTML, CSS e JavaScript. A aplicação permite acompanhar metas pessoais através de um contador regressivo interativo, com navegação por abas, design responsivo e atualização automática do tempo restante para cada objetivo.
